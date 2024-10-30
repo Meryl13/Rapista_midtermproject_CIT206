@@ -1,0 +1,215 @@
+.page{
+    width: 100%;
+}
+.header{
+    height: 90px ;
+    background-color: #00480d;
+    color: beige;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    margin:0px;
+    font-family: Brush Script MT;
+    padding-left: 10px;
+}
+
+.navigation{
+    width: 55%;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    text-decoration: none;
+    line-height: 110px;
+    font-size: 15px;
+
+}
+
+.home{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;  
+    padding-right: 60px;
+    
+    
+}
+
+.about{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;  
+    padding-right: 70px;
+    
+}
+
+.contact{
+    text-decoration: none;
+    color: #908e24;
+    font-size: 20px;
+    padding-right: 70px;
+}
+
+
+.login{
+    height: 35px;
+    width: 15%;
+    background-color: #a3ec8a;
+    border-color: #a3ec8a;
+    border-radius: 15px;
+}
+
+.log{
+    color:gray;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container{
+    display: flex;
+}
+
+
+
+lefty{
+    height:300px;
+    width:50%;
+    float:left;
+    background-color:white;
+}
+
+lefty h1{
+    color:#00480d;
+    padding:10px;
+    margin: 20px;
+    font-size: 30px;
+    font-family:Brush Script MT;
+    padding-left: 20px;
+}
+    
+lefty h2{
+    color:black;
+    padding:10px;
+    margin: 20px;
+    font-family: arial;
+}
+
+lefty h3{
+    color:black;
+    padding:0px;
+    margin: 30px;
+    font-family: Geneva;
+    font-size:25px;
+}
+
+lefty h4{
+    color:black;
+    padding:0px;
+    margin: 30px;
+    font-family: Geneva;
+    font-size:25px;
+}    
+
+righty{
+    height:300px;
+    width:50%;
+    float:right;
+    background-color: white;
+}
+
+righty h1{
+    color:#00480d;
+    padding:10px;
+    margin: 20px;   
+    font-size: 30px;
+    font-family:Brush Script MT;
+    padding-left: 20px;
+  
+}
+
+righty h2{
+    color:black;
+    padding:0px;
+    margin: 30px;
+    font-family: Geneva;
+    font-size:25px;
+
+}
+
+righty h3{
+    color:black;
+    padding:0px;
+    margin: 30px;
+    font-family: Geneva;
+    font-size:25px;
+}
+
+righty h4{
+    color:black;
+    padding:0px;
+    margin: 30px;
+    font-family: Geneva;
+    font-size:25px;
+}    
+
+
+left{
+    height:300px;
+    width:50%;
+    float:left;
+    background-color:white;
+}
+
+left h1{
+    color:#00480d;
+    padding:10px;
+    margin: 20px;
+     
+}
+
+left h2{
+    color:black;
+    padding:10px;
+    margin: 20px;
+    font-family: arial;
+}
+
+right{
+    height:300px;
+    width:50%;
+    float:right;
+    background-color: white;
+}
+
+right h1{
+    color:#00480d;
+    padding:10px;
+    margin: 20px;
+    
+  
+}
+
+right h2{
+    color:black;
+    padding:10px;
+    margin: 20px;
+    font-family: arial;
+    
+}
+
+footer{
+    height: 20px;
+    width:100%;
+    
+}
+
+footer h1{
+    color:#00480d;
+    font-family: Arial;
+    fot-size: 25px;
+    padding-left: 0px;
+    background-color: none;
+}
+
+
